@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I'm currently working on Full Stack Web Development projects using JAVA & MERN Stack.<br><br>🤝 I'm looking to collaborate on Open Source and Web Development projects.<br><br>💡 I'm looking for help with System Design, Cloud Technologies, and scalable applications.<br><br>🌱 I'm currently learning Data Structures & Algorithms, Advanced React, and Backend Development.<br><br>💬 Ask me about Java, JavaScript, React, Node.js, Express.js, MongoDB, and REST APIs.<br><br>⚡ Fun fact: I enjoy turning ideas into real-world applications and solving coding challenges.
+## 👋 About Me<br><br>🚀 Passionate Software Developer with experience in Java, JavaScript, React.js, Node.js, Express.js, and MongoDB.<br><br>🔭 Currently building full-stack web applications and improving my problem-solving skills.<br><br>🌱 Learning advanced backend development, system design, and scalable application architecture.<br><br>🤝 Open to collaborating on innovative web development and open-source projects.<br><br>💬 Ask me about MERN Stack, Java, REST APIs, and Data Structures & Algorithms.<br><br>⚡ Goal: To become a skilled Software Engineer and contribute to impactful products.
 
 
 ## 🌐 Socials:
